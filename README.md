@@ -1,11 +1,11 @@
-# Lab 03 – Phylogenetics with Bio.Phylo & Nextstrain/Auspice
+# Lab – Phylogenetics with Bio.Phylo & Nextstrain/Auspice
 
 > **Course Assignment**  
 > This repository covers Lab 03 on phylogenetic analysis using Biopython's `Bio.Phylo` module, and connects the concepts to interactive visualisation via Nextstrain/Auspice.
 
 ---
 
-## 📚 Reference Materials
+## Reference Materials
 
 | Resource | Link |
 |---|---|
@@ -16,7 +16,7 @@
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 phylo-lab/
@@ -31,7 +31,7 @@ phylo-lab/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Option A – Google Colab (recommended, no installation needed)
 
@@ -59,7 +59,7 @@ jupyter notebook lab03_phylo.ipynb
 
 ---
 
-## 🧬 What the Notebook Covers
+## What the Notebook Covers
 
 | Section | Topic |
 |---|---|
@@ -77,7 +77,7 @@ jupyter notebook lab03_phylo.ipynb
 
 ---
 
-## 🌐 Auspice / Nextstrain – Key Concepts
+## Auspice / Nextstrain – Key Concepts
 
 The [Neherlab tutorial](https://neherlab.org/201901_krisp_auspice.html) uses Nextstrain's **Auspice** viewer to demonstrate concepts that go beyond basic `Bio.Phylo`:
 
@@ -100,7 +100,7 @@ The [Neherlab tutorial](https://neherlab.org/201901_krisp_auspice.html) uses Nex
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 See `requirements.txt`. Core packages:
 
@@ -110,6 +110,6 @@ See `requirements.txt`. Core packages:
 
 ---
 
-## 📝 License
+## License
 
 Educational use only. Notebook content adapted from the [Biopython Tutorial and Cookbook](https://biopython.org/DIST/docs/tutorial/Tutorial.html) and the [Neherlab Auspice tutorial](https://neherlab.org/201901_krisp_auspice.html).
